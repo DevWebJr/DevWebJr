@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevWebJr
 - 👀 I’m interested in web programation languages
-- 🌱 I’m currently learning Symfony, ReactJS and VueJS
+- 🌱 I’m currently learning Symfony, ReactJS and VueJS, and also Python and Django
 - 💞️ I’m looking to collaborate on World
 
 <!---
